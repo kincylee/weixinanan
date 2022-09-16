@@ -11,8 +11,7 @@
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "	
-8778ba27ccbc4cb9aa5ffdc412ffc017",
+"weather_key": "8778ba27ccbc4cb9aa5ffdc412ffc017",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "鄠邑区",
 "love_date": "2022-08-04",
